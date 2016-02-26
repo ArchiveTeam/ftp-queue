@@ -1,0 +1,5 @@
+0, 'ftp://namis.knmi.nl/'
+0, 'ftp://namis.knmi.nl/./'
+0, 'ftp://namis.knmi.nl/../'
+0, 'ftp://namis.knmi.nl/.probe'
+0, 'ftp://namis.knmi.nl/'

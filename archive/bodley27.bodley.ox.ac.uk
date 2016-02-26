@@ -1,0 +1,5 @@
+0, 'ftp://bodley27.bodley.ox.ac.uk/'
+0, 'ftp://bodley27.bodley.ox.ac.uk/./'
+0, 'ftp://bodley27.bodley.ox.ac.uk/../'
+101, 'ftp://bodley27.bodley.ox.ac.uk/README'
+0, 'ftp://bodley27.bodley.ox.ac.uk/'

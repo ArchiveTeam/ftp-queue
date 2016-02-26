@@ -1,0 +1,6 @@
+0, 'ftp://apollo-brother.az.utwente.nl/'
+0, 'ftp://apollo-brother.az.utwente.nl/./'
+0, 'ftp://apollo-brother.az.utwente.nl/../'
+4096, 'ftp://apollo-brother.az.utwente.nl/CFG-PAGE.TXT'
+0, 'ftp://apollo-brother.az.utwente.nl/----------------'
+0, 'ftp://apollo-brother.az.utwente.nl/'

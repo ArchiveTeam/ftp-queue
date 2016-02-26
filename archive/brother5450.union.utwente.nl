@@ -1,0 +1,6 @@
+0, 'ftp://brother5450.union.utwente.nl/'
+0, 'ftp://brother5450.union.utwente.nl/./'
+0, 'ftp://brother5450.union.utwente.nl/../'
+4096, 'ftp://brother5450.union.utwente.nl/CFG-PAGE.TXT'
+0, 'ftp://brother5450.union.utwente.nl/Slaapstand------'
+0, 'ftp://brother5450.union.utwente.nl/'

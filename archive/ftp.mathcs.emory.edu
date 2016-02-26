@@ -1,0 +1,3 @@
+0, 'ftp://ftp.mathcs.emory.edu/'
+0, 'ftp://ftp.mathcs.emory.edu/./'
+0, 'ftp://ftp.mathcs.emory.edu/../'
