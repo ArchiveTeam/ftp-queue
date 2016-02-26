@@ -1,5 +1,7 @@
 # ftp-queue
 
+THE SCRIPT IS IN BETA. It will be more optimized.
+
 `ftp-check.py` is a script used to create item lists for ftp-grab.
 
 How to run
