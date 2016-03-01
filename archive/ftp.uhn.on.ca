@@ -1,0 +1,3 @@
+0, 'ftp://ftp.uhn.on.ca/'
+0, 'ftp://ftp.uhn.on.ca/./'
+0, 'ftp://ftp.uhn.on.ca/../'
