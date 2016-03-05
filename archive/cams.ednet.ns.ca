@@ -1,0 +1,3 @@
+0, 'ftp://cams.ednet.ns.ca/'
+0, 'ftp://cams.ednet.ns.ca/./'
+0, 'ftp://cams.ednet.ns.ca/../'
