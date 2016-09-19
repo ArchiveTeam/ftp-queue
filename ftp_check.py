@@ -5,6 +5,27 @@ import sys
 import shutil
 import urllib
 
+if len(sys.argv) != 2:
+  print '''This is a script used to create item lists for ftp-grab.
+
+USAGE:
+
+  Create a file with a list of FTPs you want to check
+  and then run the discovery with:
+
+  python ftp-check.py listofftpstobechecked
+
+  If you scan a FTP that has already been scanned and has an archive file
+  in the archive dir, only new files or files with a different size will
+  be added to the item lists.
+
+  If you have scanned a FTP site, let Archive Team know
+  at #effteepee on IRC efnet.
+  Provide the itemlistfiles from the items dir
+  and the new files from the archive dir.
+'''
+  sys.exit(-1)
+
 tobechecked = sys.argv[1]
 totalsize = 0
 maxitemsize = 209715200
