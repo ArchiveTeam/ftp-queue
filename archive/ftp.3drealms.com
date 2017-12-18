@@ -40,6 +40,7 @@
 0, 'ftp://ftp.3drealms.com/incoming/'
 0, 'ftp://ftp.3drealms.com/incoming/./'
 0, 'ftp://ftp.3drealms.com/incoming/../'
+24290816, 'ftp://ftp.3drealms.com/incoming/rottgoodies.exe'
 0, 'ftp://ftp.3drealms.com/misc/'
 0, 'ftp://ftp.3drealms.com/misc/./'
 0, 'ftp://ftp.3drealms.com/misc/../'
