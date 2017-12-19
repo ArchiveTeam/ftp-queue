@@ -1,0 +1,3 @@
+0, 'ftp://ftp.geod.nrcan.gc.ca/'
+0, 'ftp://ftp.geod.nrcan.gc.ca/./'
+0, 'ftp://ftp.geod.nrcan.gc.ca/../'

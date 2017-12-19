@@ -1,0 +1,5 @@
+0, 'ftp://ftp.cfl.scf.rncan.gc.ca/'
+0, 'ftp://ftp.cfl.scf.rncan.gc.ca/./'
+0, 'ftp://ftp.cfl.scf.rncan.gc.ca/../'
+0, 'ftp://ftp.cfl.scf.rncan.gc.ca/root'
+0, 'ftp://ftp.cfl.scf.rncan.gc.ca/'
