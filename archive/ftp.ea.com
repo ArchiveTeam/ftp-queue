@@ -189,7 +189,7 @@
 48647, 'ftp://ftp.ea.com/pub/EACom/MCO/65MCity10.JPG'
 47901, 'ftp://ftp.ea.com/pub/EACom/MCO/65mc4.JPG'
 47243, 'ftp://ftp.ea.com/pub/EACom/MCO/CudaNegra.JPG'
-1440054, 'ftp://ftp.ea.com/pub/EACom/MCO/Flyin'%20Caddy.bmp'
+1440054, "ftp://ftp.ea.com/pub/EACom/MCO/Flyin'%20Caddy.bmp"
 1440054, 'ftp://ftp.ea.com/pub/EACom/MCO/GTO1.bmp'
 403179, 'ftp://ftp.ea.com/pub/EACom/MCO/MCO%20Advertisment.gif'
 24895, 'ftp://ftp.ea.com/pub/EACom/MCO/MCOsunset.jpg'
@@ -6718,7 +6718,7 @@
 54305, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/customiz.sc2'
 121468, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/dadtim.sc2'
 95814, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/dakota.sc2'
-124842, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/david'sc.sc2'
+124842, "ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/david'sc.sc2"
 104858, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/daviscit.sc2'
 97611, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/daytonab.sc2'
 107670, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/dessands.sc2'
@@ -6759,7 +6759,7 @@
 119108, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/happyval.sc2'
 53831, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/harbour.sc2'
 121003, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/hayward.sc2'
-80398, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/herman's_isle.sc2'
+80398, "ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/herman's_isle.sc2"
 60581, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/highwaymap.sc2'
 71325, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/hilllake.sc2'
 104884, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/hillside.sc2'
@@ -6864,7 +6864,7 @@
 94019, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/soakvill.sc2'
 107283, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/socrates.sc2'
 80847, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/starter_1.sc2'
-89501, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/stockton's_island.sc2'
+89501, "ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/stockton's_island.sc2"
 52974, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/subblnk.sc2'
 73430, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/sunstcty.sc2'
 112942, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/symcity.sc2'
@@ -6930,7 +6930,7 @@
 0, 'ftp://ftp.ea.com/pub/maxis/patches/SCURK/creations-mac/'
 0, 'ftp://ftp.ea.com/pub/maxis/patches/SCURK/creations-mac/./'
 0, 'ftp://ftp.ea.com/pub/maxis/patches/SCURK/creations-mac/../'
-877706, 'ftp://ftp.ea.com/pub/maxis/patches/SCURK/creations-mac/pablo's.hqx'
+877706, "ftp://ftp.ea.com/pub/maxis/patches/SCURK/creations-mac/pablo's.hqx"
 0, 'ftp://ftp.ea.com/pub/maxis/patches/SCURK/creations-pc/'
 0, 'ftp://ftp.ea.com/pub/maxis/patches/SCURK/creations-pc/./'
 0, 'ftp://ftp.ea.com/pub/maxis/patches/SCURK/creations-pc/../'
@@ -9305,7 +9305,7 @@
 5430, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/customiz-cap.gif'
 15646, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/dadtim-cap.gif'
 9172, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/dakota-cap.gif'
-15539, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/david'sc-cap.gif'
+15539, "ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/david'sc-cap.gif"
 8855, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/daviscit-cap.gif'
 12334, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/daytonab-cap.gif'
 9491, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/dessands-cap.gif'
@@ -9344,7 +9344,7 @@
 15039, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/happyval-cap.gif'
 8008, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/harbour-cap.gif'
 15036, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/hayward-cap.gif'
-4839, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/herman's_isle-cap.gif'
+4839, "ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/herman's_isle-cap.gif"
 12146, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/highwaymap-cap.gif'
 8024, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/hilllake-cap.gif'
 12929, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/hillside-cap.gif'
@@ -9440,7 +9440,7 @@
 12664, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/soakvill-cap.gif'
 14986, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/socrates-cap.gif'
 9661, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/starter_1-cap.gif'
-9385, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/stockton's_island-cap.gif'
+9385, "ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/stockton's_island-cap.gif"
 9366, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/subblnk-cap.gif'
 8687, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/sunstctycap.gif'
 9124, 'ftp://ftp.ea.com/pub/maxis/patches/SC2000/creations-pc/caps/symcity-cap.gif'
