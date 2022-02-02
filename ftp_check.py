@@ -79,7 +79,7 @@ with open(tobechecked, 'r') as file:
                             os.remove('wget-log')
         os.chdir('..')
         shutil.rmtree(re.search(r'^([^\/]+)', ftp).group(1))
-        totalitems = zip(itemftps, itemslist, itemsizes)
+        totalitems = list(zip(itemftps, itemslist, itemsizes))
         archivelist = []
         newitems = []
         itemsize = 0
